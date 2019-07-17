@@ -1,9 +1,19 @@
-Documentation
+# Documentation
 
-    -   Laravel5
+## Laravel5
 
-https://maurice-chavelli.developpez.com/
+- [Page des cours et tutoriels de Maurice Chavelli](https://maurice-chavelli.developpez.com/)
+- [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
+- [Laracasts Journey: Laravel](https://laracasts.com/skills/laravel)
 
-https://laravel-news.com/your-first-laravel-application
+## REST
 
-https://laracasts.com/skills/laravel
+- [Non, votre API n'est pas REST !](https://www.maxpou.fr/rest-rmm-model)
+- [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
+- [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+
+## Ocaps
+
+- [Awesome Object Capabilities and Capability-based Security](https://github.com/dckc/awesome-ocap)
+- [What Are Capabilities?](http://habitatchronicles.com/2017/05/what-are-capabilities/)
+- [Authority-Based Access Control](https://www.youtube.com/playlist?list=PL86CA76F72E6B9EDB) (4 vidéos)
