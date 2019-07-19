@@ -23,3 +23,7 @@
 - [A QuickCheck Primer for PHP Developers](https://medium.com/@thinkfunctional/a-quickcheck-primer-for-php-developers-5ffbe20c16c8)
 - [John Hughes - Testing the Hard Stuff and Staying Sane](https://www.youtube.com/watch?v=zi0rHwfiX1Q)
 - [PHP QuickCheck GitHub](https://github.com/steos/php-quickcheck)
+
+## PHPUnit
+
+- [PHPUnit Manual](https://phpunit.readthedocs.io/en/8.2/index.html)
