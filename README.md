@@ -23,7 +23,11 @@
 - [A QuickCheck Primer for PHP Developers](https://medium.com/@thinkfunctional/a-quickcheck-primer-for-php-developers-5ffbe20c16c8)
 - [John Hughes - Testing the Hard Stuff and Staying Sane](https://www.youtube.com/watch?v=zi0rHwfiX1Q)
 - [PHP QuickCheck GitHub](https://github.com/steos/php-quickcheck)
+
+## Eris
+
 - [Eris - QuickCheck Porting to PHP and PHPUnit ecosystem](https://github.com/giorgiosironi/eris)
+- [Welcome to Eris's documentation !](https://eris.readthedocs.io/en/latest/)
 
 ## PHPUnit
 
