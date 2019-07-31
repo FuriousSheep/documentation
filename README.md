@@ -17,6 +17,7 @@
 - [Awesome Object Capabilities and Capability-based Security](https://github.com/dckc/awesome-ocap)
 - [What Are Capabilities?](http://habitatchronicles.com/2017/05/what-are-capabilities/)
 - [Authority-Based Access Control](https://www.youtube.com/playlist?list=PL86CA76F72E6B9EDB) (4 vidéos)
+- [Paradigm Regained : Abstraction Mechanisms for Access Control](http://www.erights.org/talks/asian03/)
 
 ## QuickCheck
 
