@@ -5,6 +5,7 @@
 - [Page des cours et tutoriels de Maurice Chavelli](https://maurice-chavelli.developpez.com/)
 - [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 - [Laracasts Journey: Laravel](https://laracasts.com/skills/laravel)
+- [Laravel : un framework qui rend heureux](https://laravel.sillo.org/laravel-5/)
 
 ## REST
 
