@@ -7,6 +7,12 @@
 - [Laracasts Journey: Laravel](https://laracasts.com/skills/laravel)
 - [Laravel : un framework qui rend heureux](https://laravel.sillo.org/laravel-5/)
 
+## Internationalization + localization
+
+- [Laravel Localization Documentation](https://laravel.com/docs/5.8/localization)
+- [Export des langues au format JSON](https://github.com/kkomelin/laravel-translatable-string-exporter)
+- [Export JS pour les fichiers VUE](https://github.com/martinlindhe/laravel-vue-i18n-generator)
+
 ## REST
 
 - [Non, votre API n'est pas REST !](https://www.maxpou.fr/rest-rmm-model)
