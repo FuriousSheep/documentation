@@ -2,6 +2,7 @@
 
 ## Laravel5
 
+- [Laravel Documentation](https://laravel.com/docs/5.8)
 - [Page des cours et tutoriels de Maurice Chavelli](https://maurice-chavelli.developpez.com/)
 - [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 - [Laracasts Journey: Laravel](https://laracasts.com/skills/laravel)
