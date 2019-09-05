@@ -46,3 +46,8 @@
 ## PHPUnit
 
 - [PHPUnit Manual](https://phpunit.readthedocs.io/en/8.2/index.html)
+
+## GitFlow
+
+- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
