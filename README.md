@@ -14,14 +14,14 @@
 - [Laravel Filesystem / Cloud Storage (v5.0)](https://laravel.com/docs/5.0/filesystem)
 - [PHP Flysystem (used by Laravel)](https://github.com/thephpleague/flysystem)
 
-## Internationalization + localization
+### Internationalization + localization
 
 - [Laravel Localization Documentation](https://laravel.com/docs/5.8/localization)
 - [Laravel 5.7 par la pratique - Les langues](https://laravel.sillo.org/laravel-5-7-par-la-pratique-les-langues/)
 - [Export des langues au format JSON](https://github.com/kkomelin/laravel-translatable-string-exporter)
 - [Export JS pour les fichiers VUE](https://github.com/martinlindhe/laravel-vue-i18n-generator)
 
-## Relationships and Polymorphism
+### Relationships and Polymorphism
 
 - [Laravel Eloquent : Relationships Documentation](https://laravel.com/docs/5.8/eloquent-relationships)
 - [Laravel One To One Eloquent Relationship Tutorial](https://itsolutionstuff.com/post/laravel-one-to-one-eloquent-relationship-tutorialexample.html)
