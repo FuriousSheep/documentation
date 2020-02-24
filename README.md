@@ -21,6 +21,7 @@
 - [Export des langues au format JSON](https://github.com/kkomelin/laravel-translatable-string-exporter)
 - [Export JS pour les fichiers VUE](https://github.com/martinlindhe/laravel-vue-i18n-generator)
 - [Astrotomic : Laravel-Translatable Documentation](https://docs.astrotomic.info/laravel-translatable/)
+- [Laravel-Translatable Tutorial](https://laravel-news.com/how-to-add-multilingual-support-to-eloquent)
 
 ### Relationships and Polymorphism
 
